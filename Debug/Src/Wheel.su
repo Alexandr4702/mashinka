@@ -1,0 +1,8 @@
+Wheel.cpp:10:1:Wheel::Wheel(TIM_HandleTypeDef*, uint32_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, TIM_HandleTypeDef*)	24	static
+Wheel.cpp:21:1:Wheel::~Wheel()	16	static
+Wheel.cpp:26:6:void Wheel::init()	16	static
+Wheel.cpp:35:6:void Wheel::elapsed_cnt()	16	static
+Wheel.cpp:45:6:void Wheel::set_power(float)	24	static
+Wheel.cpp:58:13:void Wheel::forward()	16	static
+Wheel.cpp:64:13:void Wheel::back()	16	static
+Wheel.cpp:70:7:float Wheel::get_way()	16	static
